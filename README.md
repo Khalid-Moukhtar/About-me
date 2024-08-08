@@ -6,9 +6,9 @@
 
 ## 🛠 Skills & Expertise
 
-- **Product Management:** Experienced in driving product vision, strategy, and roadmap development for SaaS and tech industries.
-- **B2B Sales & Marketing:** Skilled in user acquisition, market research, and customer engagement.
-- **Stakeholder Engagement:** Proven ability to collaborate with cross-functional teams and manage stakeholder expectations.
+- **Product Management:** 🧭 Experienced in driving product vision, strategy, and roadmap development for SaaS and tech industries.
+- **B2B Sales & Marketing:** 💻 Skilled in user acquisition, market research, customer engagement and partnership management.
+- **Stakeholder Engagement:** 🧑‍🤝‍🧑 Proven ability to collaborate with cross-functional teams and manage stakeholder expectations.
 - **Creative Writing:** ✍️ Authored a movie script currently in negotiation for production in Egypt, demonstrating strong storytelling, research, and negotiation skills.
 - **Agile Methodologies:** Proficient in agile practices and project management to deliver high-quality solutions.
 - **Data Analysis & User Research:** 🔍 Adept at gathering insights to inform product decisions and improve user experience.
@@ -36,9 +36,10 @@
 ## 📚 Education & Certifications
 
 - **Product Management:** CareerFoundry, Berlin
-- **Foundations of Project Management:** Google, Berlin
+- **Foundations of Project Management:** Google, Coursera
 - **Inbound Sales:** HubSpot Academy, Berlin
 - **Marketing Professional Certificate:** American Chamber of Commerce, Cairo
+- **3DsMax 2011** Russian culture center -Adobe-, Cairo 
 
 ---
 
