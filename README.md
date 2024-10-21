@@ -54,7 +54,7 @@
 ## 📫 Get in Touch
 
 - **Email:** [khalid.moukhtar@gmail.com](mailto:khalid.moukhtar@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/khalid-moukhtar)
 
 ---
 
